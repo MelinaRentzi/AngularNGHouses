@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "type": "Condo",
+        "price": 230000,
+        "address": "205 Grove Street",
+        "description": "Photo by Aldric RIVAT on Unsplash",
+        "details": {
+            "bedrooms": 2,
+            "bathrooms": 1,
+            "area": 921
+        },
+        "image": "home-1"
+  },
+    {
+        "id": 2,
+        "type": "House",
+        "price": 420600,
+        "address": "7823 Winding Way",
+        "description": "Photo by Brian Babb on Unsplash",
+        "details": {
+            "bedrooms": 4,
+            "bathrooms": 3,
+            "area": 2145
+        },
+        "image": "home-2"
+  },
+    {
+        "id": 3,
+        "type": "Duplex",
+        "price": 365000,
+        "address": "843 River Lane",
+        "description": "Photo by Jared Rice on Unsplash",
+        "details": {
+            "bedrooms": 3,
+            "bathrooms": 2,
+            "area": 1500
+        },
+        "image": "home-3"
+  },
+    {
+        "id": 4,
+        "type": "House",
+        "price": 760990,
+        "address": "780 Forest Avenue",
+        "description": "Photo by Kendall Henderson on Unsplash",
+        "details": {
+            "bedrooms": 6,
+            "bathrooms": 4,
+            "area": 3230
+        },
+        "image": "home-4"
+  },
+    {
+        "id": 5,
+        "type": "Condo",
+        "price": 210000,
+        "address": "1157 Andover Court",
+        "description": "Photo by Kristian Egelund on Unsplash",
+        "details": {
+            "bedrooms": 2,
+            "bathrooms": 1,
+            "area": 1023
+        },
+        "image": "home-5"
+  },
+    {
+        "id": 6,
+        "type": "Apartment",
+        "price": 354800,
+        "address": "5398 East Avenue",
+        "description": "Photo by Luke van Zyl on Unsplash",
+        "details": {
+            "bedrooms": 4,
+            "bathrooms": 2,
+            "area": 1788
+        },
+        "image": "home-6"
+  }
+]
